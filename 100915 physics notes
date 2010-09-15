@@ -1,0 +1,14 @@
+circuits
+
+with knowledge from the first 1/3 of phys 2 we should be able to build a magnet gun
+
+electromotive force
+
+Kirchoff's circuit rules
+voltage rule (loop rule)
+	the sum of changes in the potential (v) encountered in a complete trasversal of any loop of a circuit must be zero
+	E-iR=0     i=E/R
+Current rule (junction rule)
+	the sum of all currents into a point in a circuit is equal to the sum of the currents leaving that point.
+
+
